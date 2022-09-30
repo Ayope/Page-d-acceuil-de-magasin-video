@@ -1,7 +1,7 @@
-header nav{ 
+header{ 
     display: flex;
 }
-header nav img{
+header img{
     padding: 28px;
 } 
 
